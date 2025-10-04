@@ -1,0 +1,9 @@
+{
+  "name": "My Extensions",
+  "description": "Extenção para o google chrome",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  }
+}
